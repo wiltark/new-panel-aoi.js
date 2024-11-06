@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "aoi.js": "^6.9.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  },
+  "name": "new-panel-aoi",
+  "version": "1.0.0",
+  "description": "the new aoi.panel which uses an outbound API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiltark/new-panel-aoi.js.git"
+  },
+  "author": "WilTark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiltark/new-panel-aoi.js/issues"
+  },
+  "homepage": "https://github.com/wiltark/new-panel-aoi.js#readme"
+}
